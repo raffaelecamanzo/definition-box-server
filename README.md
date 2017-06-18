@@ -11,6 +11,6 @@ Usage
 
 The HTTP server is based on python 3.x (http.server); to start the server type:
 
-  python3 httpd.py
+    python3 httpd.py
 
 To stop the server press CTRL+c (keyboard interrupt)
